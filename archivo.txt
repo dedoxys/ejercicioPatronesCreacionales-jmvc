@@ -1,0 +1,9 @@
+colorOjos:rojo
+colorPelo:rubio
+tipoPelo:rizado
+tipoOjos:achinados
+nombre:pepe
+edad:25
+ciudad:elda
+peso:90
+altura:2
